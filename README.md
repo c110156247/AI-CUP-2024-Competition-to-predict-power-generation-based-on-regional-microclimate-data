@@ -1,4 +1,5 @@
 # 讓綠能觸手可及-根據區域微氣候資料預測發電量競賽
+# AI-CUP-2024-Competition-to-predict-power-generation-based-on-regional-microclimate-data
 ## TEAM_5729
 ## Private leaderboard：554811.0 / Rank 18
 **使用資料與程式碼皆放在同一層資料夾，使用資料皆為CSV，且程式碼皆為ipynb，下載後RUN ALL即可**
