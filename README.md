@@ -8,11 +8,11 @@
     ```js
     pip install -r requirements.txt
     ```
-###### xxxxxxxxx
+###### xxx(資料前處理)
 
 
 
 
-###### xxxxxxxxx
+###### xxx(模型訓練)
 
 ###### xxxxxxxxx
